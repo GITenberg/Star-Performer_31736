@@ -1,0 +1,41 @@
+_repo: Star-Performer_31736
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shea, Robert
+    aliases:
+    - Shea, Robert Joseph
+    - Shea, Robert J.
+    birthdate: 1933
+    deathdate: 1994
+    gutenberg_agent_id: '33088'
+    url: http://www.gutenberg.org/2009/agents/33088
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Shea
+description: Blue Boys rating was high and his fans were loyal to the death--anyone's
+  death!
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Revenge -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Science fiction'
+title: Star Performer
+url: http://www.gutenberg.org/ebooks/31736
